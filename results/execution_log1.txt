@@ -1,0 +1,2 @@
+[  0%] Building CXX object scratch/CMakeFiles/scratch_sim.dir/sim.cc.o
+[  0%] Linking CXX executable /home/manoel/Git/ns3-protocol-evaluation/ns-3/build/scratch/ns3.43-sim-default
